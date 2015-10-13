@@ -53,9 +53,9 @@ public class ListTransport extends JFrame {
 	 * Create the frame.
 	 */
 	public ListTransport() {
+		setResizable(false);
 		setTitle("List of Transport Means");
 		setMinimumSize(new Dimension(800, 600));
-		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 450, 300);
 		contentPane = new JPanel();

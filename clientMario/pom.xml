@@ -15,6 +15,11 @@
 			<version>1.2.1</version>
 
 		</dependency>
+		<dependency>
+			<groupId>com.itextpdf</groupId>
+			<artifactId>itextpdf</artifactId>
+			<version>5.0.6</version>
+		</dependency>
 				<dependency>
 			<groupId>tn.mario</groupId>
 			<artifactId>persist</artifactId>
